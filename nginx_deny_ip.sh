@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 nginx_home=/usr/local/nginx
 log_path=/home/wwwlogs
 
