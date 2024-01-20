@@ -2,7 +2,7 @@
 # coding: utf-8
 ################################################################
 # @@ScriptName: mysql_install.sh
-# @@Author: lsy <88919695@qq.com>
+# @@Author: sylee
 # @@Modify Date: 2014-06-17 16:09
 # @@Description:
 #   mysql auto install script. mysql version is 5.1.72 or 5.5.37
