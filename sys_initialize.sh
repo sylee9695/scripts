@@ -2,7 +2,7 @@
 # coding: utf-8
 ################################################################
 # @@ScriptName: sys_initialize.sh
-# @@Author: lsy <88919695@qq.com>
+# @@Author: sylee
 # @@Modify Date: 2014-06-17 16:05
 # @@Description:
 #   initialize the system
