@@ -2,7 +2,7 @@
 # coding: utf-8
 ################################################################
 # @@ScriptName: vsftp_adduser.sh
-# @@Author: lsy <88919695@qq.com>
+# @@Author: sylee
 # @@Modify Date: 2014-06-17 16:07
 # @@Description:
 #  this scripts is used to add vsftp virtual user.
